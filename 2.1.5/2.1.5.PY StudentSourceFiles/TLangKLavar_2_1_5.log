@@ -1,0 +1,45 @@
+# IPython log file
+
+# Tue, 24 Feb 2015 08:07:24
+%run "H:/2.0.0/2.1.5/2.1.5.PY StudentSourceFiles/ciphers.py"# Tue, 24 Feb 2015 08:07:37
+rotate(Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?, 1)
+# Tue, 24 Feb 2015 08:07:53
+rotate(Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer, 1)
+# Tue, 24 Feb 2015 08:08:41
+rotate(Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer)
+# Tue, 24 Feb 2015 08:09:57
+rotate(Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer, n=1)
+# Tue, 24 Feb 2015 08:10:15
+rotate(str(Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer), n=1)
+# Tue, 24 Feb 2015 08:11:04
+rotate("Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer", n=1)
+#[Out]# 'Kwhvsf ksbh hfsasbrcig rwbcgoifg Hvwbywbu hvsfs gvcizr slwgh ohhsadhsr vwzofwhm vsfs'
+# Tue, 24 Feb 2015 08:11:11
+rotate("Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer", n=2)
+#[Out]# 'Lxiwtg ltci igtbtcsdjh sxcdhpjgh Iwxczxcv iwtgt hwdjas tmxhi piitbeits wxapgxin wtgt'
+# Tue, 24 Feb 2015 08:11:13
+rotate("Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer", n=3)
+#[Out]# 'Myjxuh mudj jhucudteki tydeiqkhi Jxydaydw jxuhu ixekbt unyij qjjucfjut xybqhyjo xuhu'
+# Tue, 24 Feb 2015 08:11:16
+rotate("Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer", n=4)
+#[Out]# 'Nzkyvi nvek kivdveuflj uzefjrlij Kyzebzex kyviv jyflcu vozjk rkkvdgkvu yzcrizkp yviv'
+# Tue, 24 Feb 2015 08:11:19
+rotate("Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer", n=5)
+#[Out]# 'Oalzwj owfl ljwewfvgmk vafgksmjk Lzafcafy lzwjw kzgmdv wpakl sllwehlwv zadsjalq zwjw'
+# Tue, 24 Feb 2015 08:11:21
+rotate("Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer", n=6)
+#[Out]# 'Pbmaxk pxgm mkxfxgwhnl wbghltnkl Mabgdbgz maxkx lahnew xqblm tmmxfimxw abetkbmr axkx'
+# Tue, 24 Feb 2015 08:11:24
+rotate("Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer", n=7)
+#[Out]# 'Qcnbyl qyhn nlygyhxiom xchimuolm Nbchecha nbyly mbiofx yrcmn unnygjnyx bcfulcns byly'
+# Tue, 24 Feb 2015 08:11:26
+rotate("Jvgure jrag gerzraqbhf qvabfnhef Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer", n=8)
+#[Out]# 'Rdoczm rzio omzhziyjpn ydijnvpmn Ocdifdib oczmz ncjpgy zsdno voozhkozy cdgvmdot czmz'
+# Tue, 24 Feb 2015 08:12:10
+try_all_25("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?")
+%cd "H:\2.0.0\2.1.5\2.1.5.PY StudentSourceFiles"
+# Wed, 25 Feb 2015 07:17:54
+%run "H:/2.0.0/2.1.5/2.1.5.PY StudentSourceFiles/ciphers.py"# Wed, 25 Feb 2015 07:18:23
+try_all_25(Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?)
+# Wed, 25 Feb 2015 07:18:33
+try_all_25("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?")
